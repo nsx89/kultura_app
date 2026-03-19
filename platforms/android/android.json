@@ -29,11 +29,11 @@
           "/manifest": [
             {
               "xml": "<uses-permission android:name=\"android.permission.RECORD_AUDIO\" />",
-              "count": 9
+              "count": 12
             },
             {
               "xml": "<uses-permission android:name=\"android.permission.MODIFY_AUDIO_SETTINGS\" />",
-              "count": 9
+              "count": 12
             },
             {
               "xml": "<uses-permission android:name=\"android.permission.INTERNET\" />",
